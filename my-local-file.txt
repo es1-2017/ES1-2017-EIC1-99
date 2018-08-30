@@ -1,2 +1,2 @@
-This is my-local-file
+This is the content of my local text file.
 
